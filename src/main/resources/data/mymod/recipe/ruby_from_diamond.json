@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [ { "item": "minecraft:diamond" }, { "item": "minecraft:redstone" } ],
+  "result": { "id": "mymod:ruby", "count": 2 }
+}
